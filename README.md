@@ -8,6 +8,7 @@
 demo
 
 house - [house](https://mroject.github.io/viewHome.html)
+build house model - [floorplan 3d](https://mroject.github.io/build.html)
 
 
 
