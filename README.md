@@ -6,7 +6,8 @@
  - [freeswitch-offline-images](https://github.com/mroject/freeswitch-offline-images) - 不在维护
 
 demo:
- - [house](https://mroject.github.io/viewHome.html)
+ - [house原始版本](https://mroject.github.io/viewHome.html)
+ - [house修订版本](https://mroject.github.io/fix1/viewHome.html)
 
 
 
